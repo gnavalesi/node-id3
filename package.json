@@ -1,0 +1,22 @@
+{
+  "name": "node-id3",
+  "version": "1.0.0",
+  "description": "A NodeJS library for ID3 (any version)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnavalesi/node-id3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnavalesi/node-id3/issues"
+  },
+  "homepage": "https://github.com/gnavalesi/node-id3#readme",
+  "dependencies": {
+    "iconv-lite": "^0.4.13"
+  }
+}
